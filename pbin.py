@@ -8,7 +8,11 @@ from shutil import make_archive, copyfile
 PANORAMA_DLL = {
     # Legacy version of CS:GO
     "cd469787211a122125faa44138263b62" : 1308935,
-    "41e8682aa02de3b7fe275dc1f2187439" : -1
+    "41e8682aa02de3b7fe275dc1f2187439" : -1,
+    
+    # Latest version of CS:GO before CS2 release (depot 732 manifest 2224497558453288476)
+    "26fdf0b873cf92478780acdb464e4c1a" : 1308935,
+    "79aaed383b356a4fdaabf39a4d05deec" : -1,
 }
 
 
